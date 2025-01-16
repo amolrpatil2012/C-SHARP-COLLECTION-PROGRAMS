@@ -1,0 +1,15 @@
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\bin\Debug\net8.0\SortingOfEntities.exe
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\bin\Debug\net8.0\SortingOfEntities.deps.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\bin\Debug\net8.0\SortingOfEntities.runtimeconfig.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\bin\Debug\net8.0\SortingOfEntities.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\bin\Debug\net8.0\SortingOfEntities.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\obj\Debug\net8.0\SortingOfEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\obj\Debug\net8.0\SortingOfEntities.AssemblyInfoInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\obj\Debug\net8.0\SortingOfEntities.AssemblyInfo.cs
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\obj\Debug\net8.0\SortingOfEntities.csproj.CoreCompileInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\obj\Debug\net8.0\SortingOfEntities.sourcelink.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\obj\Debug\net8.0\SortingOfEntities.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\obj\Debug\net8.0\refint\SortingOfEntities.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\obj\Debug\net8.0\SortingOfEntities.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\obj\Debug\net8.0\SortingOfEntities.genruntimeconfig.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortingOfEntities\obj\Debug\net8.0\ref\SortingOfEntities.dll

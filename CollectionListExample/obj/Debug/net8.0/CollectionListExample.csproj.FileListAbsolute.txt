@@ -1,0 +1,15 @@
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\bin\Debug\net8.0\CollectionListExample.exe
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\bin\Debug\net8.0\CollectionListExample.deps.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\bin\Debug\net8.0\CollectionListExample.runtimeconfig.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\bin\Debug\net8.0\CollectionListExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\bin\Debug\net8.0\CollectionListExample.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\obj\Debug\net8.0\CollectionListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\obj\Debug\net8.0\CollectionListExample.AssemblyInfoInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\obj\Debug\net8.0\CollectionListExample.AssemblyInfo.cs
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\obj\Debug\net8.0\CollectionListExample.csproj.CoreCompileInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\obj\Debug\net8.0\CollectionListExample.sourcelink.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\obj\Debug\net8.0\CollectionListExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\obj\Debug\net8.0\refint\CollectionListExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\obj\Debug\net8.0\CollectionListExample.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\obj\Debug\net8.0\CollectionListExample.genruntimeconfig.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListExample\obj\Debug\net8.0\ref\CollectionListExample.dll

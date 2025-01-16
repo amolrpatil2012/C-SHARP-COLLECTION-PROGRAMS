@@ -1,0 +1,15 @@
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\bin\Debug\net8.0\CollectionListOfStudents.exe
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\bin\Debug\net8.0\CollectionListOfStudents.deps.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\bin\Debug\net8.0\CollectionListOfStudents.runtimeconfig.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\bin\Debug\net8.0\CollectionListOfStudents.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\bin\Debug\net8.0\CollectionListOfStudents.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\obj\Debug\net8.0\CollectionListOfStudents.GeneratedMSBuildEditorConfig.editorconfig
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\obj\Debug\net8.0\CollectionListOfStudents.AssemblyInfoInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\obj\Debug\net8.0\CollectionListOfStudents.AssemblyInfo.cs
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\obj\Debug\net8.0\CollectionListOfStudents.csproj.CoreCompileInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\obj\Debug\net8.0\CollectionListOfStudents.sourcelink.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\obj\Debug\net8.0\CollectionListOfStudents.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\obj\Debug\net8.0\refint\CollectionListOfStudents.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\obj\Debug\net8.0\CollectionListOfStudents.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\obj\Debug\net8.0\CollectionListOfStudents.genruntimeconfig.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\CollectionListOfStudents\obj\Debug\net8.0\ref\CollectionListOfStudents.dll
