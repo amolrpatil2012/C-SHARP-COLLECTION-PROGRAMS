@@ -1,0 +1,15 @@
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\bin\Debug\net8.0\SortedListExample.exe
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\bin\Debug\net8.0\SortedListExample.deps.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\bin\Debug\net8.0\SortedListExample.runtimeconfig.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\bin\Debug\net8.0\SortedListExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\bin\Debug\net8.0\SortedListExample.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\obj\Debug\net8.0\SortedListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\obj\Debug\net8.0\SortedListExample.AssemblyInfoInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\obj\Debug\net8.0\SortedListExample.AssemblyInfo.cs
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\obj\Debug\net8.0\SortedListExample.csproj.CoreCompileInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\obj\Debug\net8.0\SortedListExample.sourcelink.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\obj\Debug\net8.0\SortedListExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\obj\Debug\net8.0\refint\SortedListExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\obj\Debug\net8.0\SortedListExample.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\obj\Debug\net8.0\SortedListExample.genruntimeconfig.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\SortedListExample\obj\Debug\net8.0\ref\SortedListExample.dll

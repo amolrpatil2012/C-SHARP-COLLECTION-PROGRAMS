@@ -1,0 +1,15 @@
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\bin\Debug\net8.0\ListUsingDeletgateMethods.exe
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\bin\Debug\net8.0\ListUsingDeletgateMethods.deps.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\bin\Debug\net8.0\ListUsingDeletgateMethods.runtimeconfig.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\bin\Debug\net8.0\ListUsingDeletgateMethods.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\bin\Debug\net8.0\ListUsingDeletgateMethods.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\obj\Debug\net8.0\ListUsingDeletgateMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\obj\Debug\net8.0\ListUsingDeletgateMethods.AssemblyInfoInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\obj\Debug\net8.0\ListUsingDeletgateMethods.AssemblyInfo.cs
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\obj\Debug\net8.0\ListUsingDeletgateMethods.csproj.CoreCompileInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\obj\Debug\net8.0\ListUsingDeletgateMethods.sourcelink.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\obj\Debug\net8.0\ListUsingDeletgateMethods.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\obj\Debug\net8.0\refint\ListUsingDeletgateMethods.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\obj\Debug\net8.0\ListUsingDeletgateMethods.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\obj\Debug\net8.0\ListUsingDeletgateMethods.genruntimeconfig.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\ListUsingDeletgateMethods\obj\Debug\net8.0\ref\ListUsingDeletgateMethods.dll

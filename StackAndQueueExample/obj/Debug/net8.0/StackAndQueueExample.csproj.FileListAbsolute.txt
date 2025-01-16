@@ -1,0 +1,15 @@
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\bin\Debug\net8.0\StackAndQueueExample.exe
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\bin\Debug\net8.0\StackAndQueueExample.deps.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\bin\Debug\net8.0\StackAndQueueExample.runtimeconfig.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\bin\Debug\net8.0\StackAndQueueExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\bin\Debug\net8.0\StackAndQueueExample.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\obj\Debug\net8.0\StackAndQueueExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\obj\Debug\net8.0\StackAndQueueExample.AssemblyInfoInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\obj\Debug\net8.0\StackAndQueueExample.AssemblyInfo.cs
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\obj\Debug\net8.0\StackAndQueueExample.csproj.CoreCompileInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\obj\Debug\net8.0\StackAndQueueExample.sourcelink.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\obj\Debug\net8.0\StackAndQueueExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\obj\Debug\net8.0\refint\StackAndQueueExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\obj\Debug\net8.0\StackAndQueueExample.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\obj\Debug\net8.0\StackAndQueueExample.genruntimeconfig.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\StackAndQueueExample\obj\Debug\net8.0\ref\StackAndQueueExample.dll

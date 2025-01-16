@@ -82,7 +82,7 @@ internal class Program
         //    Console.WriteLine(student);
         //}
 
-        //students.Sort();
+        //students.Sort();          // Natural Sorting
 
         //Console.WriteLine("After Sorting : ");
         //foreach (Student student in students)
