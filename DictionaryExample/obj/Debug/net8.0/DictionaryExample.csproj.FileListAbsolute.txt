@@ -1,0 +1,15 @@
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\bin\Debug\net8.0\DictionaryExample.exe
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\bin\Debug\net8.0\DictionaryExample.deps.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\bin\Debug\net8.0\DictionaryExample.runtimeconfig.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\bin\Debug\net8.0\DictionaryExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\bin\Debug\net8.0\DictionaryExample.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\obj\Debug\net8.0\DictionaryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\obj\Debug\net8.0\DictionaryExample.AssemblyInfoInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\obj\Debug\net8.0\DictionaryExample.AssemblyInfo.cs
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\obj\Debug\net8.0\DictionaryExample.csproj.CoreCompileInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\obj\Debug\net8.0\DictionaryExample.sourcelink.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\obj\Debug\net8.0\DictionaryExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\obj\Debug\net8.0\refint\DictionaryExample.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\obj\Debug\net8.0\DictionaryExample.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\obj\Debug\net8.0\DictionaryExample.genruntimeconfig.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\DictionaryExample\obj\Debug\net8.0\ref\DictionaryExample.dll

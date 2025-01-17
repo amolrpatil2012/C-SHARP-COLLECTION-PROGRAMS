@@ -1,0 +1,15 @@
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\bin\Debug\net8.0\MapProblem.exe
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\bin\Debug\net8.0\MapProblem.deps.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\bin\Debug\net8.0\MapProblem.runtimeconfig.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\bin\Debug\net8.0\MapProblem.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\bin\Debug\net8.0\MapProblem.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\obj\Debug\net8.0\MapProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\obj\Debug\net8.0\MapProblem.AssemblyInfoInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\obj\Debug\net8.0\MapProblem.AssemblyInfo.cs
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\obj\Debug\net8.0\MapProblem.csproj.CoreCompileInputs.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\obj\Debug\net8.0\MapProblem.sourcelink.json
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\obj\Debug\net8.0\MapProblem.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\obj\Debug\net8.0\refint\MapProblem.dll
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\obj\Debug\net8.0\MapProblem.pdb
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\obj\Debug\net8.0\MapProblem.genruntimeconfig.cache
+D:\CORPORATE TRAINING\TEAMLEASE\TL_LEARNING\.NET PROGRAMS\Basics\MapProblem\obj\Debug\net8.0\ref\MapProblem.dll
